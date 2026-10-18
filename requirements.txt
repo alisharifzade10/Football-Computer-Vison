@@ -1,0 +1,13 @@
+roboflow
+inference
+supervision
+opencv-python
+python-dotenv
+gdown
+git+https://github.com/roboflow/sports.git
+transformers
+umap-learn
+scikit-learn
+more-itertools
+tqdm
+ipykernel
